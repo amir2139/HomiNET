@@ -1,15 +1,15 @@
 {
-  "version": "1.0.2",
-  "notes": "نسخه‌ی پایدار — اتصال یک‌دکمه‌ای، خلبان خودکار، و آماده از لحظه‌ی اول.",
+  "version": "1.1.0",
+  "notes": "ساده‌تر، سریع‌تر، دقیق‌تر: پینگِ درست، جداسازی سرورهای من/رایگان، خلبان خودکارِ بهتر، و بروزرسانیِ داخل برنامه.",
   "mandatory": false,
   "windows": {
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v1.0.2/HomiNet_1.0.2_x64-setup.exe",
-    "sha256": "315cd40a758a948603802d8eac6c3c605cfad77630301300159c38f2387f7d19",
-    "size": 17352051
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v1.1.0/HomiNet_1.1.0_x64-setup.exe",
+    "sha256": "86c5aaca52e34d576d1ed5ed42c27e01aa0fe8b321d009792c8e9f0d72c81af2",
+    "size": 17519562
   },
   "android": {
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v1.0.2/HomiNet_1.0.2_android_arm64.apk",
-    "sha256": "c0b124b4dc5a412fc011c60aa36cae80912c7f3ea90fe607abc2081056d2bf09",
-    "size": 29841880
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v1.1.0/HomiNet_1.1.0_android_arm64.apk",
+    "sha256": "3f0384856487a7b0108d8850c27bf67d39992a2722c0ce5a03d9720a7c078853",
+    "size": 29957832
   }
 }

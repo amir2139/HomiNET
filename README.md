@@ -4,7 +4,7 @@
 
 <br/>
 
-[![version](https://img.shields.io/badge/version-1.0.2-22d3ee?style=for-the-badge)](https://github.com/amir2139/HomiNET/releases/latest)
+[![version](https://img.shields.io/badge/version-1.1.0-22d3ee?style=for-the-badge)](https://github.com/amir2139/HomiNET/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-x64-0ea5e9?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/amir2139/HomiNET/releases/latest)
 [![Android](https://img.shields.io/badge/Android-arm64-34d399?style=for-the-badge&logo=android&logoColor=white)](https://github.com/amir2139/HomiNET/releases/latest)
 [![Telegram](https://img.shields.io/badge/پشتیبانی-Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AwmirHomayoun)

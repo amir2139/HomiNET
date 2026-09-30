@@ -1,15 +1,15 @@
 {
-  "version": "1.1.0",
-  "notes": "ساده‌تر، سریع‌تر، دقیق‌تر: پینگِ درست، جداسازی سرورهای من/رایگان، خلبان خودکارِ بهتر، و بروزرسانیِ داخل برنامه.",
+  "version": "1.2.0",
+  "notes": "اکانت شخصی (نام کاربری و رمز)، دریافت سرور بدون فیلترشکن، سرورهای رایگانِ سالم‌تر، اتصالِ سریع‌تر و «لغو» در حینِ اتصال، WireGuard، DNSهای ضدتحریم.",
   "mandatory": false,
   "windows": {
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v1.1.0/HomiNet_1.1.0_x64-setup.exe",
-    "sha256": "86c5aaca52e34d576d1ed5ed42c27e01aa0fe8b321d009792c8e9f0d72c81af2",
-    "size": 17519562
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v1.2.0/HomiNet_1.2.0_x64-setup.exe",
+    "sha256": "0f5fcb4605ba33f933d1c70f7048072228bd97ace291c153bfdeab7ced565506",
+    "size": 17772746
   },
   "android": {
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v1.1.0/HomiNet_1.1.0_android_arm64.apk",
-    "sha256": "3f0384856487a7b0108d8850c27bf67d39992a2722c0ce5a03d9720a7c078853",
-    "size": 29957832
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v1.2.0/HomiNet_1.2.0_android_arm64.apk",
+    "sha256": "07013622956a69dffef3448f1b09b239dd5a43c563892c720ce5650701c7c694",
+    "size": 30198411
   }
 }

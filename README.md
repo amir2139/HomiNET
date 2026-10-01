@@ -4,7 +4,7 @@
 
 <br/>
 
-[![version](https://img.shields.io/badge/version-1.2.0-22d3ee?style=for-the-badge)](https://github.com/amir2139/HomiNET/releases/latest)
+[![version](https://img.shields.io/badge/version-1.3.0-22d3ee?style=for-the-badge)](https://github.com/amir2139/HomiNET/releases/latest)
 [![Windows](https://img.shields.io/badge/Windows-x64-0ea5e9?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/amir2139/HomiNET/releases/latest)
 [![Android](https://img.shields.io/badge/Android-arm64-34d399?style=for-the-badge&logo=android&logoColor=white)](https://github.com/amir2139/HomiNET/releases/latest)
 [![Telegram](https://img.shields.io/badge/پشتیبانی-Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AwmirHomayoun)
@@ -41,6 +41,7 @@
 ## ✨ امکانات
 
 - 🔌 **اتصالِ یک‌دکمه‌ای** — کانفیگ را وارد کن، وصل شو. بدونِ تنظیماتِ پیچیده.
+- ☀️ **خورشید** — برای روزهای قطعی: از لبه‌های CDN عبور می‌کند، نه آی‌پیِ سرور؛ وقتی هیچ‌چیز وصل نمی‌شود، وصل می‌شود.
 - 🛰️ **خلبانِ خودکار** — بهترین سرور را خودش پیدا می‌کند، و اگر سروری افتاد، بی‌وقفه جابه‌جا می‌شود تا **همیشه وصل** بمانی.
 - 👤 **اکانت شخصی** — ورود با نام کاربری و رمز؛ اعتبار بر اساس تاریخ، ساعتِ اتصال یا حجم.
 - 🧩 **پشتیبانی از انواع کانفیگ** — VLESS / Reality، VMess، Trojan، Shadowsocks، Hysteria2، WireGuard و کانفیگ‌های کامل؛ هر نوع در تبِ جدا.
@@ -49,6 +50,7 @@
 - 📡 **اشتراک و کانالِ تلگرام** — سرورها را از اشتراک یا کانال به‌روز نگه‌دار.
 - ⚡ **تستِ سرعت و پینگِ واقعی** — سالم‌ترین و سریع‌ترین سرور، خودکار انتخاب می‌شود.
 - 🧪 **آزمایشگاهِ اتصال** — روش‌های مختلف را روی سایت‌های واقعی می‌سنجد.
+- 🎭 **SNI spoofing** — صدها اسمِ بی‌خطر (کپچا، سایت‌های ایرانی و…) با اسکنِ زنده روی شبکه‌ی خودت.
 - 🪄 **Fragment و نویز با تنظیمِ خودکار** — برای عبور از شبکه‌های سخت‌گیر.
 - 🧱 **تونلِ سیستمی (TUN) و تونلِ هر برنامه جدا** — مسیرِ ترافیک را خودت انتخاب کن.
 - 🔄 **بروزرسانیِ داخلِ برنامه** — با یک دکمه، آخرین نسخه را می‌گیرد و نصب می‌کند.

@@ -1,15 +1,15 @@
 {
-  "version": "1.2.0",
-  "notes": "اکانت شخصی (نام کاربری و رمز)، دریافت سرور بدون فیلترشکن، سرورهای رایگانِ سالم‌تر، اتصالِ سریع‌تر و «لغو» در حینِ اتصال، WireGuard، DNSهای ضدتحریم.",
+  "version": "1.3.0",
+  "notes": "«خورشید» برای روزهای قطعی (عبور از CDN)، SNI spoofing با ۳۷۰ اسمِ بی‌خطر و اسکنِ زنده، ورودِ ساده‌تر (بزرگی/کوچکیِ نام کاربری مهم نیست)، دریافت از تلگرام بالای صفحه‌ی اتصال.",
   "mandatory": false,
   "windows": {
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v1.2.0/HomiNet_1.2.0_x64-setup.exe",
-    "sha256": "0f5fcb4605ba33f933d1c70f7048072228bd97ace291c153bfdeab7ced565506",
-    "size": 17772746
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v1.3.0/HomiNet_1.3.0_x64-setup.exe",
+    "sha256": "c849f34f62cb81748fdd31aee51bb2a4a55815c2af8ebcce438e97457baef348",
+    "size": 25136355
   },
   "android": {
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v1.2.0/HomiNet_1.2.0_android_arm64.apk",
-    "sha256": "07013622956a69dffef3448f1b09b239dd5a43c563892c720ce5650701c7c694",
-    "size": 30198411
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v1.3.0/HomiNet_1.3.0_android_arm64.apk",
+    "sha256": "126289f334e142e39fd730307f3f24423c860e760c05e394620e7ea5cca9fd21",
+    "size": 38756685
   }
 }

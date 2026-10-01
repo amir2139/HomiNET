@@ -1,15 +1,15 @@
 {
-  "version": "1.3.1",
-  "notes": "ذخیره‌ی نام کاربری و رمز در صفحه‌ی ورود، کلید انتشارِ ساده‌تر و بررسی‌شده، انتشارِ خودکارِ اکانت‌ها.",
+  "version": "1.3.2",
+  "notes": "اکانت‌ها بین گوشی و کامپیوتر همگام می‌شن، ساخت اکانت حتی وقتی انتشار نشد، کلیدِ انتشارِ خراب خودکار پاک می‌شه.",
   "mandatory": false,
   "windows": {
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v1.3.1/HomiNet_1.3.1_x64-setup.exe",
-    "sha256": "5de395097f4c7073c556fc8644dc99d51dd5828c1a42a1425c12abbdea69394b",
-    "size": 25143306
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v1.3.2/HomiNet_1.3.2_x64-setup.exe",
+    "sha256": "bb82e57de9a99a8866e5bcf5dd0179c2bf76bd455974affcdf8ed9ddad1d5481",
+    "size": 25165072
   },
   "android": {
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v1.3.1/HomiNet_1.3.1_android_arm64.apk",
-    "sha256": "46b4856e523d3169ef9997f96fae58c158602b177d187d4d709f5e9ab43bc02d",
-    "size": 38774449
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v1.3.2/HomiNet_1.3.2_android_arm64.apk",
+    "sha256": "38d83964cc81440b9d9e8e89dc2056d07875f348aaaf55ea72261e804e6d4347",
+    "size": 38797633
   }
 }

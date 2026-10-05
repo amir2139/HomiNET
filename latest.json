@@ -1,15 +1,15 @@
 {
-  "version": "1.3.2",
-  "notes": "اکانت‌ها بین گوشی و کامپیوتر همگام می‌شن، ساخت اکانت حتی وقتی انتشار نشد، کلیدِ انتشارِ خراب خودکار پاک می‌شه.",
+  "version": "2.0.0",
+  "notes": "پرچم کشورها، انتخاب هوشمند سرور برای هر اپراتور (ایرانسل، همراه اول، مخابرات…)، حالت گیمینگ بدون جابه‌جایی وسط بازی، پینگ پایدار، تست گیمینگ و سرعت، اتصال یه‌کلیکی با آی‌پی تمیز، تفکیک ترافیک کامل، و روی گوشی: با بستن برنامه دیگه قطع نمی‌شه.",
   "mandatory": false,
   "windows": {
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v1.3.2/HomiNet_1.3.2_x64-setup.exe",
-    "sha256": "bb82e57de9a99a8866e5bcf5dd0179c2bf76bd455974affcdf8ed9ddad1d5481",
-    "size": 25165072
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v2.0.0/HomiNet_2.0.0_x64-setup.exe",
+    "sha256": "85c8730e748d1864f60bf553c0cd592671c5f25dcd320f2fe8a4c5aa2d7b7746",
+    "size": 25362230
   },
   "android": {
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v1.3.2/HomiNet_1.3.2_android_arm64.apk",
-    "sha256": "38d83964cc81440b9d9e8e89dc2056d07875f348aaaf55ea72261e804e6d4347",
-    "size": 38797633
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v2.0.0/HomiNet_2.0.0_android_arm64.apk",
+    "sha256": "49545d6f1055decca7f8010e8609c28f4498210bc170e19c0892998650e09974",
+    "size": 39042633
   }
 }

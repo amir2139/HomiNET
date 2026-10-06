@@ -1,15 +1,15 @@
 {
-  "version": "2.1.0",
-  "notes": "منوی درختی، دکمه‌ی اتصال کنار هر سرور، شروع خودکار با سرور رایگان برای کسی که سرور نداره، افزودن کانال تلگرام و هر لینکی با یه کادر، تست سرعت کم‌حجم، و رفع قطع شدن فوری در حالت TUN.",
+  "version": "2.1.1",
+  "notes": "منوی درختی، دکمه‌ی اتصال کنار هر سرور، شروع خودکار با سرور رایگان، افزودن کانال تلگرام و هر لینکی با یه کادر، تست سرعت کم‌حجم، رفع قطع شدن فوری در حالت TUN، و ورود ساده‌تر.",
   "mandatory": false,
   "windows": {
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v2.1.0/HomiNet_2.1.0_x64-setup.exe",
-    "sha256": "20fa01fba5adc43790e05a84fffd189aeb35b13ccb3b8d0485f3b4bb8d7445f7",
-    "size": 25397813
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v2.1.1/HomiNet_2.1.1_x64-setup.exe",
+    "sha256": "7400702b49a8c9d7cb8a96e7396e40ae1bfe0d277f2a819f16684c1e4088ddb6",
+    "size": 25415308
   },
   "android": {
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v2.1.0/HomiNet_2.1.0_android_arm64.apk",
-    "sha256": "d24b0981fff73984107d716fc920b23c9e04d61ae49f3290e8bc6b28da9d5a9a",
-    "size": 39091713
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v2.1.1/HomiNet_2.1.1_android_arm64.apk",
+    "sha256": "02c7151618189c340aa493909aac1b6f16f896abea824aef32e407f1c5bc97f1",
+    "size": 39106565
   }
 }

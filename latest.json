@@ -1,15 +1,15 @@
 {
-  "version": "2.2.0",
-  "notes": "بخش تازه‌ی «پروکسی تلگرام»: جمع‌آوری از چند منبع، تست واقعی با خودِ تلگرام، اتصال با یک دکمه، کپی و فرستادن به Saved Messages. پینگ‌های الکی ۱ میلی‌ثانیه دیگه نشون داده نمی‌شن. HomiGAP همیشه بدون VPN وصل می‌شه. روی گوشی، همه‌ی زیربخش‌ها دیده می‌شن. روی گوشی‌هایی که WebView قدیمی دارن، به‌جای صفحه‌ی سفید، راهنمای به‌روزرسانی نشون داده می‌شه.",
+  "version": "2.2.1",
+  "notes": "منوی گوشی: زدن روی هر بخش، منو رو باز نگه می‌داره تا زیربخشش رو انتخاب کنی. همه‌ی امکانات 2.2.0 (پروکسی تلگرام، پیام همگانی زمان‌دار، رفع پینگ الکی، راهنمای WebView قدیمی) هم هست.",
   "mandatory": false,
   "windows": {
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v2.2.0/HomiNet_2.2.0_x64-setup.exe",
-    "sha256": "46990cc117dc58a4ffd3a6748a79b0983011e0e4f03a5ccce267e01c45cedfba",
-    "size": 25503935
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v2.2.1/HomiNet_2.2.1_x64-setup.exe",
+    "sha256": "ee09c6d0c49820cce2b351d89d85e7e5826ef426f8776dd9ec5c6f3f96920bb0",
+    "size": 25503453
   },
   "android": {
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v2.2.0/HomiNet_2.2.0_android_arm64.apk",
-    "sha256": "23c9538f84cff62c20c2c979edeb30b8c9d9f9cabd6f1e06eac8095c21678d6b",
-    "size": 39181201
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v2.2.1/HomiNet_2.2.1_android_arm64.apk",
+    "sha256": "27f6a79fdc177623250600b2e06af89773d62c5dc7dba2dc4355c99de6cfd4ab",
+    "size": 39180453
   }
 }

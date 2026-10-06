@@ -1,15 +1,15 @@
 {
-  "version": "2.0.0",
-  "notes": "پرچم کشورها، انتخاب هوشمند سرور برای هر اپراتور (ایرانسل، همراه اول، مخابرات…)، حالت گیمینگ بدون جابه‌جایی وسط بازی، پینگ پایدار، تست گیمینگ و سرعت، اتصال یه‌کلیکی با آی‌پی تمیز، تفکیک ترافیک کامل، و روی گوشی: با بستن برنامه دیگه قطع نمی‌شه.",
+  "version": "2.1.0",
+  "notes": "منوی درختی، دکمه‌ی اتصال کنار هر سرور، شروع خودکار با سرور رایگان برای کسی که سرور نداره، افزودن کانال تلگرام و هر لینکی با یه کادر، تست سرعت کم‌حجم، و رفع قطع شدن فوری در حالت TUN.",
   "mandatory": false,
   "windows": {
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v2.0.0/HomiNet_2.0.0_x64-setup.exe",
-    "sha256": "85c8730e748d1864f60bf553c0cd592671c5f25dcd320f2fe8a4c5aa2d7b7746",
-    "size": 25362230
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v2.1.0/HomiNet_2.1.0_x64-setup.exe",
+    "sha256": "20fa01fba5adc43790e05a84fffd189aeb35b13ccb3b8d0485f3b4bb8d7445f7",
+    "size": 25397813
   },
   "android": {
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v2.0.0/HomiNet_2.0.0_android_arm64.apk",
-    "sha256": "49545d6f1055decca7f8010e8609c28f4498210bc170e19c0892998650e09974",
-    "size": 39042633
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v2.1.0/HomiNet_2.1.0_android_arm64.apk",
+    "sha256": "d24b0981fff73984107d716fc920b23c9e04d61ae49f3290e8bc6b28da9d5a9a",
+    "size": 39091713
   }
 }

@@ -1,15 +1,15 @@
 {
-  "version": "2.4.0",
-  "notes": "رفع کامل وصل نشدن روی ویندوز، «VPN گوشی» فقط از گوشی وصل می‌شه، دستیار هوشمند جدید (بررسی کامل سیستم، تشخیص فیلترشکن و DNS مزاحم، دلیل وصل نشدن و راه بعدی با راهنمای قدم‌به‌قدم، همه‌ی روش‌های اتصال)، کارها با عوض کردن صفحه قطع نمی‌شن، فونت ایران‌سنس، تم روشن / تیره / مثل سیستم و رنگ دلخواه، و دیگه بعد از قطع و وصل هات‌اسپات اینترنت قفل نمی‌مونه.",
+  "version": "2.4.1",
+  "notes": "ویندوز: با خاموش شدن سیستم یا قطع برق دیگه آداپتور HomiNet و پراکسی جا نمی‌مونن و اینترنت قفل نمی‌شه. اندروید: صفحه دیگه به پهلو جابه‌جا یا زوم نمی‌شه و اندازه‌ی فونت گوشی چیدمان رو به‌هم نمی‌ریزه.",
   "mandatory": false,
   "windows": {
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v2.4.0/HomiNet_2.4.0_x64-setup.exe",
-    "sha256": "ff05642de9ce73b9f1ae059b4c7f02f70da6f5d320708e97a0f44e3163657768",
-    "size": 25631501
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v2.4.1/HomiNet_2.4.1_x64-setup.exe",
+    "sha256": "1800a71f182ae8bc9a33a661fca51af7a485eaf7ba0b441e82b0ec18686042b4",
+    "size": 25621227
   },
   "android": {
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v2.4.0/HomiNet_2.4.0_android_arm64.apk",
-    "sha256": "9ae55aa4deaba408a5054dd6afb8bd521b93e7c53b1c9db3c8fed34f463c5a93",
-    "size": 39314989
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v2.4.1/HomiNet_2.4.1_android_arm64.apk",
+    "sha256": "9aae68ddfad3094ce7981cbb3dab6870ca9288560de92affd559a2ba13dba5f3",
+    "size": 39317913
   }
 }

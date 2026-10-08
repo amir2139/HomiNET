@@ -1,15 +1,15 @@
 {
-  "version": "2.3.0",
-  "notes": "دستیار هوشمند (می‌گه مشکل از کجاست و با یه دکمه درستش می‌کنه)، اتصال خیلی سریع‌تر، پینگ واقعی در حالت TUN، Fragment فقط جایی که لازمه، تست سرعت اینترنت (با و بدون VPN)، ایرانی‌ها مستقیم / همه از VPN، انتخاب همه و به‌روزرسانی اشتراک در صفحه‌ی سرورها، اشتراک VPN گوشی با هات‌اسپات و «استفاده از VPN گوشی» در ویندوز، تشخیص فوری عوض شدن اینترنت، و رفع باز نشدن پنجره در ویندوز (رفتن کنار ساعت).",
+  "version": "2.4.0",
+  "notes": "رفع کامل وصل نشدن روی ویندوز، «VPN گوشی» فقط از گوشی وصل می‌شه، دستیار هوشمند جدید (بررسی کامل سیستم، تشخیص فیلترشکن و DNS مزاحم، دلیل وصل نشدن و راه بعدی با راهنمای قدم‌به‌قدم، همه‌ی روش‌های اتصال)، کارها با عوض کردن صفحه قطع نمی‌شن، فونت ایران‌سنس، تم روشن / تیره / مثل سیستم و رنگ دلخواه، و دیگه بعد از قطع و وصل هات‌اسپات اینترنت قفل نمی‌مونه.",
   "mandatory": false,
   "windows": {
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v2.3.0/HomiNet_2.3.0_x64-setup.exe",
-    "sha256": "2a3fd118e915452ee5c1e76c0aa5e6730f557ef82a41e6e774ffa87fc23c11f3",
-    "size": 25549355
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v2.4.0/HomiNet_2.4.0_x64-setup.exe",
+    "sha256": "ff05642de9ce73b9f1ae059b4c7f02f70da6f5d320708e97a0f44e3163657768",
+    "size": 25631501
   },
   "android": {
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v2.3.0/HomiNet_2.3.0_android_arm64.apk",
-    "sha256": "dbea12ee181e4d496e56be97ccefe67924615d89c4541af3846ce34fb21eb519",
-    "size": 39258585
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v2.4.0/HomiNet_2.4.0_android_arm64.apk",
+    "sha256": "9ae55aa4deaba408a5054dd6afb8bd521b93e7c53b1c9db3c8fed34f463c5a93",
+    "size": 39314989
   }
 }

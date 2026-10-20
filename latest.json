@@ -1,15 +1,20 @@
 {
-  "version": "2.4.1",
-  "notes": "ویندوز: با خاموش شدن سیستم یا قطع برق دیگه آداپتور HomiNet و پراکسی جا نمی‌مونن و اینترنت قفل نمی‌شه. اندروید: صفحه دیگه به پهلو جابه‌جا یا زوم نمی‌شه و اندازه‌ی فونت گوشی چیدمان رو به‌هم نمی‌ریزه.",
+  "version": "3.0.0",
+  "notes": "کانفیگ‌های خریدی همیشه اول و با حجم و روزِ باقی‌مونده؛ کانفیگ‌های بدون TLS و allowInsecure حالا وصل می‌شن؛ TUIC، AnyTLS، Hysteria، SSH؛ کانال تلگرام و ایتا با «N کانفیگ آخر»؛ حالت مهمان و گردونه‌ی روزانه؛ شمارنده‌ی درست حجم؛ چهار سبک ظاهری؛ هشدار مجوز باتری در اندروید؛ نسخه‌ی گوشی‌های ۳۲ بیتی.",
   "mandatory": false,
   "windows": {
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v2.4.1/HomiNet_2.4.1_x64-setup.exe",
-    "sha256": "1800a71f182ae8bc9a33a661fca51af7a485eaf7ba0b441e82b0ec18686042b4",
-    "size": 25621227
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.0.0/HomiNet_3.0.0_x64-setup.exe",
+    "sha256": "05745ab33f8b2bb90d83eaf5f27c4a78ba232dc29d2bc705fcae8a124a457ea2",
+    "size": 25747361
   },
   "android": {
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v2.4.1/HomiNet_2.4.1_android_arm64.apk",
-    "sha256": "9aae68ddfad3094ce7981cbb3dab6870ca9288560de92affd559a2ba13dba5f3",
-    "size": 39317913
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.0.0/HomiNet_3.0.0_android_arm64.apk",
+    "sha256": "373a989d64d6bf3076fe35df07cf6cd56dd0d0fb310a861cbd14ad23ea9c6145",
+    "size": 52742354
+  },
+  "android_arm32": {
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.0.0/HomiNet_3.0.0_android_arm32.apk",
+    "sha256": "a47fa250772faefc6fed3c1c1bbb094e016d9a33eef891c441c7d598591b2d97",
+    "size": 52487664
   }
 }

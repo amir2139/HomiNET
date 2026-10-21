@@ -1,20 +1,20 @@
 {
-  "version": "3.0.0",
-  "notes": "کانفیگ‌های خریدی همیشه اول و با حجم و روزِ باقی‌مونده؛ کانفیگ‌های بدون TLS و allowInsecure حالا وصل می‌شن؛ TUIC، AnyTLS، Hysteria، SSH؛ کانال تلگرام و ایتا با «N کانفیگ آخر»؛ حالت مهمان و گردونه‌ی روزانه؛ شمارنده‌ی درست حجم؛ چهار سبک ظاهری؛ هشدار مجوز باتری در اندروید؛ نسخه‌ی گوشی‌های ۳۲ بیتی.",
+  "version": "3.1.0",
+  "notes": "اضافه کردن فایل کانفیگ (انتخاب، کشیدن و رها کردن، اشتراک از تلگرام) با تشخیص هوشمند: نپسترنت، WireGuard، OpenVPN، سیسکو، Clash، sing-box، JSON، زیپ و کد QR داخل عکس؛ گزارش هر فایل و پرسیدن رمز؛ رعایت قفل فایل‌های نپسترنت؛ منابع رایگان تازه؛ گردونه‌ی هم‌رنگ تم؛ لیست سرورها روی گوشی مرتب‌تر.",
   "mandatory": false,
   "windows": {
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.0.0/HomiNet_3.0.0_x64-setup.exe",
-    "sha256": "05745ab33f8b2bb90d83eaf5f27c4a78ba232dc29d2bc705fcae8a124a457ea2",
-    "size": 25747361
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.1.0/HomiNet_3.1.0_x64-setup.exe",
+    "sha256": "7d47f4bd43e8716107da1078db2be1f8fd70e99701c156817a5c3969c0a21d44",
+    "size": 26268711
   },
   "android": {
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.0.0/HomiNet_3.0.0_android_arm64.apk",
-    "sha256": "373a989d64d6bf3076fe35df07cf6cd56dd0d0fb310a861cbd14ad23ea9c6145",
-    "size": 52742354
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.1.0/HomiNet_3.1.0_android_arm64.apk",
+    "sha256": "93080e828b60d88cc70f0ef7f2a772b4436917b9c3746ffe1c9226f078da2351",
+    "size": 53393826
   },
   "android_arm32": {
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.0.0/HomiNet_3.0.0_android_arm32.apk",
-    "sha256": "a47fa250772faefc6fed3c1c1bbb094e016d9a33eef891c441c7d598591b2d97",
-    "size": 52487664
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.1.0/HomiNet_3.1.0_android_arm32.apk",
+    "sha256": "4cb3fd4d99afe53f0c307857dc7a17dda661d684387dae5c3ab64fca2bcc7f70",
+    "size": 53077528
   }
 }

@@ -1,20 +1,20 @@
 {
-  "version": "3.1.0",
-  "notes": "اضافه کردن فایل کانفیگ (انتخاب، کشیدن و رها کردن، اشتراک از تلگرام) با تشخیص هوشمند: نپسترنت، WireGuard، OpenVPN، سیسکو، Clash، sing-box، JSON، زیپ و کد QR داخل عکس؛ گزارش هر فایل و پرسیدن رمز؛ رعایت قفل فایل‌های نپسترنت؛ منابع رایگان تازه؛ گردونه‌ی هم‌رنگ تم؛ لیست سرورها روی گوشی مرتب‌تر.",
+  "version": "3.2.0",
+  "notes": "سرورهای رایگان فقط وقتی سالم حساب می‌شن که سایت https واقعی رو باز کنن؛ اتصال پایدارتر و بدون قطعی بی‌دلیل؛ پیدا کردن سرور سریع‌تر با منابع تازه؛ npvt و WireGuard جدا؛ «چسباندن و اتصال» در صفحه‌ی اتصال؛ هومی، دستیار هوشمند؛ نصب خودکار VPN روی VPS خودت؛ بررسی امنیت کانفیگ‌ها روی همین دستگاه؛ پیام انقضا فقط یک بار.",
   "mandatory": false,
   "windows": {
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.1.0/HomiNet_3.1.0_x64-setup.exe",
-    "sha256": "7d47f4bd43e8716107da1078db2be1f8fd70e99701c156817a5c3969c0a21d44",
-    "size": 26268711
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.2.0/HomiNet_3.2.0_x64-setup.exe",
+    "sha256": "ae64da5c5cadb77f54766c837211537428450e671e59ed0a2a231b3b6d969d18",
+    "size": 27184370
   },
   "android": {
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.1.0/HomiNet_3.1.0_android_arm64.apk",
-    "sha256": "93080e828b60d88cc70f0ef7f2a772b4436917b9c3746ffe1c9226f078da2351",
-    "size": 53393826
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.2.0/HomiNet_3.2.0_android_arm64.apk",
+    "sha256": "acaa37738155d814171fbf9761319983392b0f3f7a11aea493031cc53be3f8d0",
+    "size": 54712622
   },
   "android_arm32": {
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.1.0/HomiNet_3.1.0_android_arm32.apk",
-    "sha256": "4cb3fd4d99afe53f0c307857dc7a17dda661d684387dae5c3ab64fca2bcc7f70",
-    "size": 53077528
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.2.0/HomiNet_3.2.0_android_arm32.apk",
+    "sha256": "6ea6d1aca477310154e302dfa495fa0056746c4d30ffecfb9b51bab2271fa05e",
+    "size": 54253024
   }
 }

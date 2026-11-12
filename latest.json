@@ -1,21 +1,21 @@
 {
   "android": {
-    "sha256": "14b94c37843dd4be1fa3852fd5ad603273f14b33f69ed828563d28b6517a369d",
-    "size": 58599508,
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.4.0/HomiNet_3.4.0_android_arm64.apk"
+    "sha256": "c590926805ca29a5263259fbc5c111a3933845da9588b20f85d4f45cb4c2f643",
+    "size": 58616640,
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.4.1/HomiNet_3.4.1_android_arm64.apk"
   },
   "android_arm32": {
-    "sha256": "4e9124de34c7d2fc6e178a030b65f09109b8f3f0aa20f11cd25859822d8394f6",
-    "size": 58318248,
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.4.0/HomiNet_3.4.0_android_arm32.apk"
+    "sha256": "d1e573128ae5660b98e643244545e882b23ecabae1d186e0d74056550e63eadf",
+    "size": 58319740,
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.4.1/HomiNet_3.4.1_android_arm32.apk"
   },
   "mandatory": false,
-  "notes": "اتصال خیلی سریع‌تر؛ سرور تازه از منابع فیلترشده بعد از وصل شدن؛ تست قابل تنظیم؛ اتصال با OpenVPN، سیسکو و AmneziaWG؛ چک‌لیست شیائومی تا VPN با بستن برنامه قطع نشه؛ هومی باهوش‌تر؛ افزونه‌ی مرورگر؛ ویجت و کاشی اندروید؛ اعلان‌ها؛ بروزرسانی امن با امضای سازنده.",
-  "sig": "5e28df80d9d9a1da4f1b37317e09748cf54576a9896e9e7047c2a004b773de815a73695294a6fadbaa91a1b317c62a1a86499cfae0697dcdde2d998ee5a27403",
-  "version": "3.4.0",
+  "notes": "دکمه‌ی «بپرس» هومی درست شد؛ باز کردن فایل کانفیگ از تلگرام دیگه صفحه‌ی سیاه نشون نمی‌ده؛ سرورهای OpenVPN از VPN Gate؛ کانال configsHUB جزو منابع؛ دریافت و تست خودکار سرور هر چند ساعت (حتی وقتی وصل نیستی)؛ دکمه‌ی «اتصال سریع به آخرین سرور».",
+  "sig": "70d37808d150adc7df324436c8c9cbe87ac8dfc939291687c1ee3055672ea3729011b1ca407a701c879c047a9954da17fb560bc9f18b6283ec01925c917e1503",
+  "version": "3.4.1",
   "windows": {
-    "sha256": "f2c2eb09150ad8894ddf31975347ad21850656e56437594221d5f473d9b7cd4a",
-    "size": 30375042,
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.4.0/HomiNet_3.4.0_x64-setup.exe"
+    "sha256": "99949026f1f3248ba669a532f2dc9e4b16329a96ea262d78736d7bb2fe78b359",
+    "size": 30382030,
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.4.1/HomiNet_3.4.1_x64-setup.exe"
   }
 }

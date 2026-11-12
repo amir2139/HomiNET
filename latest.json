@@ -1,21 +1,21 @@
 {
   "android": {
-    "sha256": "c590926805ca29a5263259fbc5c111a3933845da9588b20f85d4f45cb4c2f643",
-    "size": 58616640,
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.4.1/HomiNet_3.4.1_android_arm64.apk"
+    "sha256": "8322774ebf93feddfd0c9d26d4a1a77a449ad5c9436213e5dc9e4d90cd5394ff",
+    "size": 58698572,
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.4.2/HomiNet_3.4.2_android_arm64.apk"
   },
   "android_arm32": {
-    "sha256": "d1e573128ae5660b98e643244545e882b23ecabae1d186e0d74056550e63eadf",
-    "size": 58319740,
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.4.1/HomiNet_3.4.1_android_arm32.apk"
+    "sha256": "c0a5a4e6ee755d0527c53b4a738608ebee6ff2051df06c750f579b15ebbcfa40",
+    "size": 58369540,
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.4.2/HomiNet_3.4.2_android_arm32.apk"
   },
   "mandatory": false,
-  "notes": "دکمه‌ی «بپرس» هومی درست شد؛ باز کردن فایل کانفیگ از تلگرام دیگه صفحه‌ی سیاه نشون نمی‌ده؛ سرورهای OpenVPN از VPN Gate؛ کانال configsHUB جزو منابع؛ دریافت و تست خودکار سرور هر چند ساعت (حتی وقتی وصل نیستی)؛ دکمه‌ی «اتصال سریع به آخرین سرور».",
-  "sig": "70d37808d150adc7df324436c8c9cbe87ac8dfc939291687c1ee3055672ea3729011b1ca407a701c879c047a9954da17fb560bc9f18b6283ec01925c917e1503",
-  "version": "3.4.1",
+  "notes": "رفع فریز (Not Responding) در صفحه‌ی تنظیمات؛ رفع به‌هم‌ریختگی صفحه موقع باز کردن دستیار هومی؛ سازگاری بیشتر نصب روی اندروید.",
+  "sig": "b0f0569b2543a11c6527c52692d3196662393f66d52bb2e0db4262d031b635ec7895985931b0887644721d855d0a9fef6c115f812393d554f6810c9240b0630f",
+  "version": "3.4.2",
   "windows": {
-    "sha256": "99949026f1f3248ba669a532f2dc9e4b16329a96ea262d78736d7bb2fe78b359",
-    "size": 30382030,
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.4.1/HomiNet_3.4.1_x64-setup.exe"
+    "sha256": "56d3b2b68e2dcc9051093aed1826cb55918e825b285c2b2a41549e51f208cc20",
+    "size": 30414170,
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.4.2/HomiNet_3.4.2_x64-setup.exe"
   }
 }

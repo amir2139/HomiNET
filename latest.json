@@ -1,21 +1,21 @@
 {
   "android": {
-    "sha256": "8322774ebf93feddfd0c9d26d4a1a77a449ad5c9436213e5dc9e4d90cd5394ff",
-    "size": 58698572,
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.4.2/HomiNet_3.4.2_android_arm64.apk"
+    "sha256": "9e44894737113af5b80effc6ca8b45439422546930804001d004b10751235b01",
+    "size": 58682749,
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.4.3/HomiNet_3.4.3_android_arm64.apk"
   },
   "android_arm32": {
-    "sha256": "c0a5a4e6ee755d0527c53b4a738608ebee6ff2051df06c750f579b15ebbcfa40",
-    "size": 58369540,
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.4.2/HomiNet_3.4.2_android_arm32.apk"
+    "sha256": "209095f338e8dafe00683c3bf0c0f1753f970ed695e7c1461d51bb8ea9659c58",
+    "size": 58368672,
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.4.3/HomiNet_3.4.3_android_arm32.apk"
   },
   "mandatory": false,
-  "notes": "رفع فریز (Not Responding) در صفحه‌ی تنظیمات؛ رفع به‌هم‌ریختگی صفحه موقع باز کردن دستیار هومی؛ سازگاری بیشتر نصب روی اندروید.",
-  "sig": "b0f0569b2543a11c6527c52692d3196662393f66d52bb2e0db4262d031b635ec7895985931b0887644721d855d0a9fef6c115f812393d554f6810c9240b0630f",
-  "version": "3.4.2",
+  "notes": "حساب خانواده دیگر آفلاین نمی‌ماند؛ ساخت چند اکانت یکجا در یک پیام؛ لینک خرید و آیدی پشتیبانی قابل‌تغییر از پنل؛ بروزرسانی خودکار سرور هر ۲۴ ساعت؛ صفحه‌بندی لیست کاربران.",
+  "sig": "6117d63812ee0ecf5b7258efe719ad91083849b6430ff09eb85edc14e3fbbd5055f19c501df106c8e8b795209608d7c479ec13f2821ecb7382d3feb53fef9508",
+  "version": "3.4.3",
   "windows": {
-    "sha256": "56d3b2b68e2dcc9051093aed1826cb55918e825b285c2b2a41549e51f208cc20",
-    "size": 30414170,
-    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.4.2/HomiNet_3.4.2_x64-setup.exe"
+    "sha256": "16efb64eccef8dea7698904e04cefccbd1fa479bde7617943e6297d66fcfb2d1",
+    "size": 30401412,
+    "url": "https://github.com/amir2139/HomiNET/releases/download/v3.4.3/HomiNet_3.4.3_x64-setup.exe"
   }
 }
